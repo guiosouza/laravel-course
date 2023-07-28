@@ -1,1 +1,2 @@
-<h1>Tela de contato</h1>
+@extends('layouts.main')
+<p>Exibindo produto id: {{ $id }}</p>
